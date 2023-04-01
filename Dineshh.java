@@ -6,3 +6,4 @@ Public Class Subtraction
         int Difference = a - b ;
         system.out.println("Subtration is" +Difference);
      }
+.....
